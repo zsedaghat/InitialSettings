@@ -1,0 +1,5 @@
+**/bin
+**/.vs
+Back/obj
+Logs/
+PublishProfiles/
